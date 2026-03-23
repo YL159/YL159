@@ -10,8 +10,8 @@ Also enjoy turning ideas into productivity with technology.
 
 ## Tool Stash
 - **Languages**: Python, Java, JavaScript, TypeScript, C, bash
-- **Web**: React, Vue3, Spring Boot, Django, Firebase, mySQL
-- **DevOps**: Docker, Jenkins, Buildbot, Postman
+- **Web**: React, Vue3, Spring Boot, Django, mySQL
+- **DevOps**: Docker, Jenkins, Azure DevOps, Buildbot, Postman
 - **Tools & Cloud**: Git, Figma, PowerBI, Firebase
 - **AI & Vision**: pytorch, scipy, pandas, sklearn, kornia, openCV
 
