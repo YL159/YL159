@@ -10,10 +10,11 @@ Also enjoy turning ideas into productivity with technology.
 
 ## Tool Stash
 - **Languages**: Python, Java, JavaScript, TypeScript, C, bash
-- **Web**: React, Vue3, Spring Boot, Django, mySQL
 - **DevOps**: Docker, Jenkins, Azure DevOps, Buildbot, Postman
-- **Tools & Cloud**: Git, Figma, PowerBI, Firebase
-- **AI & Vision**: pytorch, scipy, pandas, sklearn, kornia, openCV
+- **Web**: React, Vue3, Spring Boot, Django, MUI
+- **Data**: mySQL, pandas, Polars, PowerBI
+- **Tools & Cloud**: Git, Zenhub, Figma, Google Firebase
+- **AI & Vision**: pytorch, scipy, sklearn, kornia, openCV
 
 ## Work Showcase
 - [Ecommerce - Glasses](https://project-6e0fc.web.app/) – React.js + Firebase [team project](https://github.com/YL159/E-commerce_EECS4413_2023?tab=readme-ov-file)
