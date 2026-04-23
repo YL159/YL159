@@ -14,7 +14,7 @@ Also enjoy turning ideas into productivity with technology.
 - **Web**: React, Vue3, Spring Boot, Django, MUI
 - **Data**: mySQL, pandas, Polars, PowerBI
 - **Tools & Cloud**: Git, Zenhub, Figma, Google Firebase
-- **AI & Vision**: pytorch, scipy, sklearn, kornia, openCV
+- **AI & Vision**: pytorch, scipy, sklearn, kornia, openCV, MCP
 
 ## Work Showcase
 - [Ecommerce - Glasses](https://project-6e0fc.web.app/) – React.js + Firebase [team project](https://github.com/YL159/E-commerce_EECS4413_2023?tab=readme-ov-file)
