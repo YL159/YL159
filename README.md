@@ -19,6 +19,7 @@ Also enjoy turning ideas into productivity with technology.
 ## Work Showcase
 - [Ecommerce - Glasses](https://project-6e0fc.web.app/) – React.js + Firebase team project
 - [YouTube data ML models](https://github.com/YL159/YouTube-DB-ML-Models) – ML models applied to Youtube data & report
+- [Polars Learning Notes](https://github.com/YL159/Polars_Learning_Notes) - Polars and ETL flow
 - [Leetcode problem solutions](https://github.com/YL159/problem_app/tree/main/problems) - Share some worthy Leetcode problem analysis and solutions
 
 ## Check Me Out
@@ -33,6 +34,6 @@ Also enjoy turning ideas into productivity with technology.
 > On the other hand, you can make a substantial mess with well-made bricks.
 > 
 > This is where the SOLID principles come in.”
-> – Robert C. Martin
+> – Robert C. Martin, *Clean Architecture*
 
 
