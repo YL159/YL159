@@ -17,7 +17,7 @@ Also enjoy turning ideas into productivity with technology.
 - **AI & Vision**: pytorch, scipy, sklearn, kornia, openCV, MCP
 
 ## Work Showcase
-- [Ecommerce - Glasses](https://project-6e0fc.web.app/) – React.js + Firebase [team project](https://github.com/YL159/E-commerce_EECS4413_2023?tab=readme-ov-file)
+- [Ecommerce - Glasses](https://project-6e0fc.web.app/) – React.js + Firebase team project
 - [YouTube data ML models](https://github.com/YL159/YouTube-DB-ML-Models) – ML models applied to Youtube data & report
 - [Leetcode problem solutions](https://github.com/YL159/problem_app/tree/main/problems) - Share some worthy Leetcode problem analysis and solutions
 
