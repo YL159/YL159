@@ -2,7 +2,7 @@
 
 Here is a passionate and dedicated ***Software Developer*** based in Ontario, Canada 🇨🇦
 
-CS and EnvSci background enables me to think in efficient, constructive and sustanable ways.
+CS and EnvSci background enables me to think in efficient, constructive and sustainable ways.
 
 I believe in clean, realiable and readable code, be *True* to facts and limitations.
 
