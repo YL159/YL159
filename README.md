@@ -20,10 +20,11 @@ Also enjoy turning ideas into productivity with technology.
 - [Ecommerce - Glasses](https://github.com/YL159/E-commerce_EECS4413_2023) – React.js + Firebase team project
 - [YouTube data ML models](https://github.com/YL159/YouTube-DB-ML-Models) – ML models applied to Youtube data & report
 - [Polars Learning Notes](https://github.com/YL159/Polars_Learning_Notes) - Polars and ETL flow
-- [Leetcode problem solutions](https://github.com/YL159/problem_app/tree/main/problems) - Share some worthy Leetcode problem analysis and solutions
+- [Tiny Glade web project](https://github.com/YL159/blog_app) - My personal blog site with React & Github Pages, while sharing fun Leetcode problems.
 
 ## Check Me Out
 - [LinkedIn](https://www.linkedin.com/in/purojecto2501/)
+- [Tiny Glade](https://yl159.github.io/blog_app/)
 
 ---
 
